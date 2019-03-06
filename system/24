@@ -1,0 +1,1 @@
+dpkg -l | awk '{if ($1 == "ii") print}'

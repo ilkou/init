@@ -1,0 +1,6 @@
+#graphic session :
+## by typing : su username 
+## entering the password
+#session ssh :
+##by typing : username@ipaddress
+##entering the password

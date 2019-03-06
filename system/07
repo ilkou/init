@@ -1,0 +1,2 @@
+ps aux | grep sshd | sed '1!d'
+#pidof sshd

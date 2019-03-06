@@ -1,0 +1,2 @@
+#The easiest way on how to check what Debian version you are running is to simply read a content of /etc/debian_version file
+cat /etc/debian_version

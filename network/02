@@ -1,0 +1,5 @@
+#!/bin/bash
+# figured out the Wi-Fi card with the following command : networksetup -listallhardwareports 
+ifconfig -L en0 | grep 'broadcast' | cut -d ' ' -f 6
+arp -a | grep "(10.11." | awk '{print $2}'
+# ping <broadcast address>

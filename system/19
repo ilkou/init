@@ -1,0 +1,3 @@
+#For RHEL based linux, a handy utility is : chkconfig --list
+#Debian / Ubuntu doesn't have this.  Instead you can install and use sysv-rc-conf
+sysv-rc-conf

@@ -1,0 +1,2 @@
+#Edit the /etc/hostname file:
+vi /etc/hostname

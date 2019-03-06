@@ -1,0 +1,2 @@
+#To see your DNS server address type the following command cat /etc/resolv.conf
+#the complete path is /etc/resolv.conf (man nslookup > FILES)

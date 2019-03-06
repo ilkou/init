@@ -1,0 +1,2 @@
+#il s agit de AWS (Amazon Web Services)
+whois slash16.org | grep 'Server' | sed '$!d' | awk -F 'DNS' '{print $1}' | cut -d . -f 2-

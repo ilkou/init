@@ -1,0 +1,3 @@
+#find out the pid then : kill pid
+pid=$(ps aux | grep "var/log/syslog" | sed '1!d' | awk '{print $2}')
+kill $pid

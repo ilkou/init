@@ -1,0 +1,3 @@
+#ps -ef | grep ssh > to get the pid then kill'em with the following command
+kill
+#or just type pkill ssh
