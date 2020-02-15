@@ -72,7 +72,7 @@ print_header () {
 	printf "##"
 	sleep 0.1
 	counter=30
-	printf "      ouklichoussama@gmail.com"
+	printf "      oouklich@student.1337.ma"
 	while [ $counter -lt $(( $cols - 30 ))  ]
 	do
 		printf " "

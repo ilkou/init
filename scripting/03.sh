@@ -3,7 +3,7 @@
 #                                                ___   ___   ___       #
 #    Created by: oouklich                     |     |     |     |      #
 #                                             |  ___|  ___|     |      #
-#    ouklichoussama@gmail.com                 |     |     |     |      #
+#    oouklich@student.1337.ma                 |     |     |     |      #
 #                                             |  ___|  ___|     |      #
 #                                                                      #
 #                            <init project>                            #
